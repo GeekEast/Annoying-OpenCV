@@ -15,7 +15,7 @@
 ## Group Project Configuration Demo
 ### Environment
 - MacOS 10.14.5
-- [Intellij](https://www.jetbrains.com/idea/)
+- [Intellij Ultimate](https://www.jetbrains.com/student/)
 - [Homebrew](https://brew.sh/)
 - X-code CLI
 - [OpenCV 4.1.2](https://opencv.org/releases/)
