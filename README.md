@@ -41,11 +41,23 @@ url "https://github.com/opencv/opencv/archive/4.1.2.tar.gz"
 # patience from 20 - 40 minutes
 brew install --build-from-source opencv
 ```
+
+### Stage: Config Intellij
+- Create `JavaFX` Project
+<div style="text-align:center;"><img src="img/javafx.png"></div>
+
 - Copy Built File into Project
 ```sh
 open /usr/local/Cellar/opencv/4.1.2/share/java/opencv4
 ```
+<div style="text-align:center;"><img src="img/lib.png"></div>
+
+- Config `File` > `Project Struture`
+<div style="text-align:center;"><img src="img/project_struc.png"></div>
+
+- Config VM Options in `Run` > `Edit Configurations`
+  - `-Djava.library.path=/opencv/build/lib`
+<div style="text-align:center;"><img src="img/vm.png"></div>
 
 
-![](img/2019-10-25-03-45-09.png)
--Djava.library.path=/opencv/build/lib
+### Stage Run
