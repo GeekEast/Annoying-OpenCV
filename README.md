@@ -50,7 +50,7 @@ brew install --build-from-source opencv
 ```sh
 open /usr/local/Cellar/opencv/4.1.2/share/java/opencv4
 ```
-<div style="text-align:center; margin:auto"><img src="img/lib.png"></div>
+<div style="text-align:center; width: 100px; margin:auto"><img src="img/lib.png"></div>
 
 - Config `File` > `Project Struture`
 <div style="text-align:center; margin:auto"><img src="img/project_struc.png"></div>
@@ -61,3 +61,4 @@ open /usr/local/Cellar/opencv/4.1.2/share/java/opencv4
 
 
 ### Stage Run
+
