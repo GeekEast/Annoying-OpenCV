@@ -50,10 +50,10 @@ brew install --build-from-source opencv
 ```sh
 open /usr/local/Cellar/opencv/4.1.2/share/java/opencv4
 ```
-<div style="text-align:center;"><img src="img/lib.png"></div>
+<div style="text-align:center;margin:0"><img src="img/lib.png"></div>
 
 - Config `File` > `Project Struture`
-<div style="text-align:center;"><img src="img/project_struc.png"></div>
+<div style="text-align:center; margin:0"><img src="img/project_struc.png"></div>
 
 - Config VM Options in `Run` > `Edit Configurations`
   - `-Djava.library.path=/opencv/build/lib`
