@@ -44,20 +44,20 @@ brew install --build-from-source opencv
 
 ### Stage: Config Intellij
 - Create `JavaFX` Project
-<div style="text-align:center;"><img src="img/javafx.png"></div>
+<div style="text-align:center; margin:auto"><img src="img/javafx.png"></div>
 
 - Copy Built File into Project
 ```sh
 open /usr/local/Cellar/opencv/4.1.2/share/java/opencv4
 ```
-<div style="width:80%; margin:auto"><img src="img/lib.png"></div>
+<div style="text-align:center; margin:auto"><img src="img/lib.png"></div>
 
 - Config `File` > `Project Struture`
-<div style="text-align:center; margin:0"><img src="img/project_struc.png"></div>
+<div style="text-align:center; margin:auto"><img src="img/project_struc.png"></div>
 
 - Config VM Options in `Run` > `Edit Configurations`
   - `-Djava.library.path=/opencv/build/lib`
-<div style="text-align:center;"><img src="img/vm.png"></div>
+<div style="text-align:center; margin:auto"><img src="img/vm.png"></div>
 
 
 ### Stage Run
