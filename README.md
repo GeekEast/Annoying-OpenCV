@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Group Project Configuration Demo](#group-project-configuration-demo)
+  - [Environment](#environment)
+  - [Stage: Build OpenCV](#stage-build-opencv)
+  - [Stage: Config Intellij](#stage-config-intellij)
+  - [Stage Run](#stage-run)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Group Project Configuration Demo
 ### Environment
