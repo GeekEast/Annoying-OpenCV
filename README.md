@@ -17,7 +17,7 @@
 - MacOS 10.14.5
 - [Intellij Ultimate](https://www.jetbrains.com/student/)
 - [Homebrew](https://brew.sh/)
-- X-code CLI
+- X-code CLI 4.2.1
 - [OpenCV 4.1.2](https://opencv.org/releases/)
 
 ### Stage: Build OpenCV
