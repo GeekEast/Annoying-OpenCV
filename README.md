@@ -15,7 +15,7 @@
 ## Group Project Configuration Demo
 ### Environment
 - MacOS 10.14.5
-- Java 8
+- JDK 8
 - [Intellij Ultimate](https://www.jetbrains.com/student/)
 - [Homebrew](https://brew.sh/)
 - X-code CLI 4.2.1
@@ -90,3 +90,4 @@ open /usr/local/Cellar/opencv/4.1.2/share/java/opencv4
 - [Using OpenCV Java with Eclips](https://docs.opencv.org/2.4.11/doc/tutorials/introduction/java_eclipse/java_eclipse.html)
 - [macOS 安装 opencv3.4](https://my.oschina.net/u/3767256/blog/1614886)
 - [Java Dev Intro](https://docs.opencv.org/2.4/doc/tutorials/introduction/desktop_java/java_dev_intro.html)
+- [PKG Uninstaller](https://www.corecode.io/uninstallpkg/)
