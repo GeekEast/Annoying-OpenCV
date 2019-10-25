@@ -19,6 +19,7 @@
 - [Homebrew](https://brew.sh/)
 - X-code CLI 4.2.1
 - [OpenCV 4.1.2](https://opencv.org/releases/)
+- [Hyper](https://github.com/zeit/hyper) `Optional`
 
 ### Stage: Build OpenCV
 - Install `X-code Command Line`
