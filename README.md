@@ -48,10 +48,6 @@ url "https://github.com/opencv/opencv/archive/4.1.2.tar.gz"
 # line 2
 -DBUILD_opencv_java=ON
 ```
-- Path
-OpenCV will be install in `/usr/local/Cellar/opencv/4.1.2/`
-
-
 
 - Install and build `opencv`
 ```sh
@@ -60,6 +56,9 @@ brew install --build-from-source opencv
 # if you need to reinstall
 brew reinstall --build-from-source opencv
 ```
+
+- Path
+  - **OpenCV** will be install in `/usr/local/Cellar/opencv/4.1.2/`
 
 ### Stage: Config Intellij
 - Create `JavaFX` Project
