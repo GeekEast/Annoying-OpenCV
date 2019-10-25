@@ -48,6 +48,8 @@ url "https://github.com/opencv/opencv/archive/4.1.2.tar.gz"
 # line 2
 -DBUILD_opencv_java=ON
 ```
+- Path
+OpenCV will be install in `/usr/local/Cellar/opencv/4.1.2/`
 
 
 
@@ -55,6 +57,8 @@ url "https://github.com/opencv/opencv/archive/4.1.2.tar.gz"
 ```sh
 # patience from 20 - 40 minutes
 brew install --build-from-source opencv
+# if you need to reinstall
+brew reinstall --build-from-source opencv
 ```
 
 ### Stage: Config Intellij
