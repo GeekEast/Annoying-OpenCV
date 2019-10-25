@@ -15,6 +15,7 @@
 ## Group Project Configuration Demo
 ### Environment
 - MacOS 10.14.5
+- Java 8
 - [Intellij Ultimate](https://www.jetbrains.com/student/)
 - [Homebrew](https://brew.sh/)
 - X-code CLI 4.2.1
@@ -58,7 +59,7 @@ brew reinstall --build-from-source opencv
 ```
 
 - Path
-  - **OpenCV** will be install in `/usr/local/Cellar/opencv/4.1.2/`
+  - **OpenCV** will be install in `/usr/local/Cellar/opencv/4.1.2/share/java/opencv4`
 
 ### Stage: Config Intellij
 - Create `JavaFX` Project
