@@ -3,9 +3,9 @@
 # Table Of Content
 
 - [Annoying OpenCV](#annoying-opencv)
-  - [Prepare](#prepare)
+  - [Prerequisite](#prerequisite)
     - [Environemnt Setting](#environemnt-setting)
-    - [Primer Install](#primer-install)
+    - [Primers Install](#primers-install)
       - [Install X-Code](#install-x-code)
       - [Install X-Code Command Line](#install-x-code-command-line)
       - [Install Homebrew](#install-homebrew)
@@ -24,20 +24,19 @@
     - [Click `Generate`](#click-generate)
     - [Finally, `make`](#finally-make)
   - [Configure IDE](#configure-ide)
-    - [Config Intellij](#config-intellij)
   - [Test](#test)
 - [Reference](#reference)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Annoying OpenCV 
-## Prepare
+## Prerequisite
 ### Environemnt Setting
 - MacOS Mojave 10.14.5
 - JDK 8 `or` JDK 12
 - [Intellij Ultimate](https://www.jetbrains.com/student/)
 
-### Primer Install
+### Primers Install
 #### Install X-Code
 `App Store` > `X-code` > `Install`
 #### Install X-Code Command Line
@@ -110,10 +109,7 @@ cd build
 make -4j
 ```
 
-
-
 ## Configure IDE
-### Config Intellij
 - Create `JavaFX` Project
 <div style="text-align:center; margin:auto"><img src="img/javafx.png"></div>
 
