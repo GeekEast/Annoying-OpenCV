@@ -125,11 +125,8 @@ make -4j
   - `-Djava.library.path=/opencv/build/lib`
 <div style="text-align:center; margin:auto"><img src="img/vm.png"></div>
 
-
 ## Test
 <div style="text-align:center; margin:auto"><img src="img/2019-10-31-00-25-18.png"></div>
-
----
 
 # Reference
 - [OpenCV Java Tutorial](https://opencv-java-tutorials.readthedocs.io/en/latest/index.html)
