@@ -15,7 +15,7 @@
 ## Group Project Configuration Demo
 ### Environment
 - MacOS 10.14.5
-- JDK 8
+- JDK 8/12
 - [Intellij Ultimate](https://www.jetbrains.com/student/)
 - [Homebrew](https://brew.sh/)
 - X-code CLI 4.2.1
