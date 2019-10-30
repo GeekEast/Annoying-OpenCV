@@ -1,16 +1,34 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table Of Content
+# Table Of Content
 
-- [Group Project Configuration Demo](#group-project-configuration-demo)
-  - [Environment](#environment)
-  - [Stage: Build OpenCV](#stage-build-opencv)
-  - [Stage: Config Intellij](#stage-config-intellij)
-  - [Stage Run](#stage-run)
+- [Annoying OpenCV](#annoying-opencv)
+  - [Prepare](#prepare)
+    - [Environemnt Setting](#environemnt-setting)
+    - [Primer Install](#primer-install)
+      - [Install X-Code](#install-x-code)
+      - [Install X-Code Command Line](#install-x-code-command-line)
+      - [Install Homebrew](#install-homebrew)
+      - [Install Apache Ant](#install-apache-ant)
+      - [Install gst-plugin-base](#install-gst-plugin-base)
+      - [Install CMake](#install-cmake)
+      - [Install CMake GUI](#install-cmake-gui)
+      - [Install FFmpeg](#install-ffmpeg)
+    - [Download OpenCV](#download-opencv)
+  - [Build](#build)
+    - [**Unzip** OpenCV in `~/desktop/`](#unzip-opencv-in-desktop)
+    - [**Create** a new empty folder `build`](#create-a-new-empty-folder-build)
+    - [**Configure** paths in  `CMake GUI` then **click** `Configure`](#configure-paths-in--cmake-gui-then-click-configure)
+    - [**Configure** attributes in `CMake GUI`](#configure-attributes-in-cmake-gui)
+    - [**Configure** again and agian util:](#configure-again-and-agian-util)
+    - [Click `Generate`](#click-generate)
+    - [Finally, `make`](#finally-make)
+  - [Configure IDE](#configure-ide)
+    - [Config Intellij](#config-intellij)
+  - [Test](#test)
 - [Reference](#reference)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 
 # Annoying OpenCV 
 ## Prepare
