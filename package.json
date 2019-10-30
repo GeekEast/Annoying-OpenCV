@@ -22,7 +22,7 @@
   "homepage": "https://github.com/GeekEast/opencv-demo#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "yarn doctoc README.md --github --title \"## Table Of Content\" && git add -A"
+      "pre-commit": "yarn doctoc README.md --github --title \"# Table Of Content\" && git add -A"
     }
   },
   "devDependencies": {
