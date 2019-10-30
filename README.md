@@ -16,11 +16,11 @@
       - [Install FFmpeg](#install-ffmpeg)
     - [Download OpenCV](#download-opencv)
   - [Build](#build)
-    - [**Unzip** OpenCV in `~/desktop/`](#unzip-opencv-in-desktop)
-    - [**Create** a new empty folder `build`](#create-a-new-empty-folder-build)
-    - [**Configure** paths in  `CMake GUI` then **click** `Configure`](#configure-paths-in--cmake-gui-then-click-configure)
-    - [**Configure** attributes in `CMake GUI`](#configure-attributes-in-cmake-gui)
-    - [**Configure** again and agian util:](#configure-again-and-agian-util)
+    - [Unzip OpenCV in `~/desktop/`](#unzip-opencv-in-desktop)
+    - [Create a new empty folder `build`](#create-a-new-empty-folder-build)
+    - [Configure paths in  `CMake GUI` then click `Configure`](#configure-paths-in--cmake-gui-then-click-configure)
+    - [Configure attributes in `CMake GUI`](#configure-attributes-in-cmake-gui)
+    - [Configure again and agian util:](#configure-again-and-agian-util)
     - [Click `Generate`](#click-generate)
     - [Finally, `make`](#finally-make)
   - [Configure IDE](#configure-ide)
@@ -80,16 +80,16 @@ make install
 - [OpenCV Contrib 3.4.7](https://github.com/opencv/opencv_contrib/archive/3.4.7.zip)
 
 ## Build
-### **Unzip** OpenCV in `~/desktop/`
+### Unzip OpenCV in `~/desktop/`
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-32-20.png"></div>
 
-### **Create** a new empty folder `build`
+### Create a new empty folder `build`
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-34-35.png"></div>
 
-### **Configure** paths in  `CMake GUI` then **click** `Configure`
+### Configure paths in  `CMake GUI` then click `Configure`
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-43-28.png"></div>
 
-### **Configure** attributes in `CMake GUI`
+### Configure attributes in `CMake GUI`
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-39-36.png"></div>
 
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-40-27.png"></div>
@@ -98,7 +98,7 @@ make install
 
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-44-56.png"></div>
 
-### **Configure** again and agian util:
+### Configure again and agian util:
 <div style="text-align:center; margin:auto"><img src="img/2019-10-30-23-48-37.png"></div>
 
 ### Click `Generate`
