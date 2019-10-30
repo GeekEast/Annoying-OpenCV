@@ -107,7 +107,7 @@ make install
 ### Finally, `make`
 ```sh
 cd build
-make -4j
+make -j4 # or -j8 depends on number of cpu cores
 ```
 
 ## Configure IDE
