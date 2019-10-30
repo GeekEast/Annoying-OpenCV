@@ -25,6 +25,7 @@
     - [Finally, `make`](#finally-make)
   - [Configure IDE](#configure-ide)
   - [Test](#test)
+- [Resources](#resources)
 - [Reference](#reference)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -127,6 +128,11 @@ make -4j
 
 ## Test
 <div style="text-align:center; margin:auto"><img src="img/2019-10-31-00-25-18.png"></div>
+
+# Resources
+- [OpenCV 3.0 Computer Vision with Java]()
+- [OCA Java SE I]()
+- [OCP Java SE II]()
 
 # Reference
 - [OpenCV Java Tutorial](https://opencv-java-tutorials.readthedocs.io/en/latest/index.html)
