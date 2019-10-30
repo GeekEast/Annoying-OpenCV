@@ -130,9 +130,9 @@ make -4j
 <div style="text-align:center; margin:auto"><img src="img/2019-10-31-00-25-18.png"></div>
 
 # Resources
-- [OpenCV 3.0 Computer Vision with Java]()
-- [OCA Java SE I]()
-- [OCP Java SE II]()
+- [OpenCV 3.0 Computer Vision with Java](https://github.com/GeekEast/Annoying-OpenCV/blob/master/resources/OpenCV%203.0%20Computer%20Vision%20with%20Java_%20Create%20multiplatform%20computer%20vision%20desktop%20and%20web%20applications%20using%20the%20combination%20of%20OpenCV%20and%20Java%20(%20PDFDrive.com%20).pdf)
+- [OCA Java SE I](https://github.com/GeekEast/Annoying-OpenCV/blob/master/resources/OCA-Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer%20I%20Study%20Guide%20Exam%201Z0-808.pdf)
+- [OCP Java SE II](https://github.com/GeekEast/Annoying-OpenCV/blob/master/resources/OCP%20Oracle%20Certified%20Professional%20Java%20SE%208%20Programmer%20II%20Study%20Guide%20Exam%201Z0-809.pdf)
 
 # Reference
 - [OpenCV Java Tutorial](https://opencv-java-tutorials.readthedocs.io/en/latest/index.html)
