@@ -123,7 +123,7 @@ make -j4 # or -j8 depends on number of cpu cores
 <div style="text-align:center; margin:auto"><img src="img/2019-10-31-00-19-42.png"></div>
 
 - Config VM Options in `Run` > `Edit Configurations`
-  - `-Djava.library.path=/opencv/build/lib`
+  - `-Djava.library.path=./lib`
 <div style="text-align:center; margin:auto"><img src="img/vm.png"></div>
 
 ## Test
