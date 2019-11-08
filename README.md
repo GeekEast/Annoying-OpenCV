@@ -115,7 +115,7 @@ make -j4 # or -j8 depends on number of cpu cores
 <div style="text-align:center; margin:auto"><img src="img/javafx.png"></div>
 
 - Copy Built File into Project
-  - Copy `‎⁨opencv-3.4.7/build/bin/pencv-347.jar` to Intelli Project folder `lib`
+  - Copy `‎⁨opencv-3.4.7/build/bin/opencv-347.jar` to Intelli Project folder `lib`
   - Copy `opencv-3.4.7/build/lib/libopencv_java347.dylib` to Intelli Project folder `lib`
 <div style="text-align:center; margin:auto"><img src="img/2019-10-31-00-18-31.png"></div>
 
